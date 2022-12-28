@@ -10,26 +10,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-
-Best practices for scalable ReactJS enterprise app development
+**Best practices for scalable ReactJS enterprise app development**
 How the development process should go depends heavily on your project’s specifics. But there are a few practices that can help prepare your application for future growth.
 
-Implement testing from the start
+**Implement testing from the start**
 During the initial stages of a development project, writing automation tests might seem like a pointless chore since there are only a few components. However, if you want to build a scalable app, it’s vital to implement testing as soon as possible. Doing so will make it easy to continue testing as your codebase grows. 
 
-Leverage tools that can help you scale
+**Leverage tools that can help you scale**
 While you shouldn’t add too many tools to your project, it’s a good idea to adopt valuable tools that can help you build a scalable app. These tools include Prettier, ESLInt, and libraries such as React Router, React Hook Form and date-fns. 
 
-Organize your project files properly
+**Organize your project files properly**
 Organizing your project files properly and naming them logically will make it easier to manage them as your application grows. For example, it’s good practice to create folders for each component and place all related files, including the unit test file, in that folder. 
 
-Build a library for UI and logic components
+**Build a library for UI and logic components**
 Building a component library will allow the development team to share and reuse components. In addition, you can utilize a platform like a Bit to manage the collection. And also include logic in the library with hooks. 
 
-Use hooks to decouple components from the logic
+**Use hooks to decouple components from the logic**
 Hooks are a feature of React that development teams can use to decouple logic from components. Developers can write custom hooks to share logic across components.  
 
-ReactJS best practices
+**ReactJS best practices**
 
 
 
@@ -72,6 +71,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn more in the docs : //url
+Ticketing Solution : //url
+Component Liibrary : //url
