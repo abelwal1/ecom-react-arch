@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Libraries & Packages Used in the application :
+
+Reactstrap : Used for CSS & UI Design purpose
+Redux: For State Management
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
