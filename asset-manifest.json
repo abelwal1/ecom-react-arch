@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.7d13d615.css",
-    "main.js": "/static/js/main.d75f010b.js",
+    "main.js": "/static/js/main.d923b87f.js",
     "static/js/787.29213961.chunk.js": "/static/js/787.29213961.chunk.js",
     "static/media/forestbridge.jpg": "/static/media/forestbridge.b138df8d135b51366682.jpg",
     "index.html": "/index.html",
     "main.7d13d615.css.map": "/static/css/main.7d13d615.css.map",
-    "main.d75f010b.js.map": "/static/js/main.d75f010b.js.map",
+    "main.d923b87f.js.map": "/static/js/main.d923b87f.js.map",
     "787.29213961.chunk.js.map": "/static/js/787.29213961.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d13d615.css",
-    "static/js/main.d75f010b.js"
+    "static/js/main.d923b87f.js"
   ]
 }
