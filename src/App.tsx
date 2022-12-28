@@ -6,7 +6,7 @@ function App() {
     <div className='app'>
       <div className="bgimg">
         <div className="topleft">
-          <p>Logo</p>
+          <p>Edu App</p>
         </div>
         <div className="middle">
           <h1>COMING SOON</h1>
