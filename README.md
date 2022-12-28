@@ -5,8 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Libraries & Packages Used in the application :
 
-Reactstrap : Used for CSS & UI Design purpose
-Redux: For State Management
+**Reactstrap** : Used for CSS & UI Design purpose
+**Redux**: For State Management
 
 
 
