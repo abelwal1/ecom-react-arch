@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Libraries & Packages Used in the application :
 
-**Reactstrap** : Used for CSS & UI Design purpose
-**Redux**: For State Management
+**Reactstrap** : Used for CSS & UI Design purpose.
+**Redux**: For State Management.
 
 
 
