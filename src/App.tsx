@@ -14,7 +14,7 @@ function App() {
           <p>35 days left</p>
         </div>
         <div className="bottomleft">
-          <p>Some text</p>
+          <p>footer here</p>
         </div>
       </div>
     </div>
