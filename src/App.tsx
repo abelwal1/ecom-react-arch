@@ -5,7 +5,6 @@ function App() {
   return (
     <div className='app'>
       <div className="bgimg">
-        asdfsafsad
         <div className="topleft">
           <p>Logo</p>
         </div>
